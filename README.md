@@ -1,4 +1,5 @@
-# NLW-expert Notes
+# NLW-expert  Notes
+![readmeNLW](https://github.com/leonardomenezes7/NLW-Notes/assets/145611761/1c75dfb6-dd71-41b1-bb97-9fe9be377b7c)
 
 ##NLW-Expert Notes is an application developed with React.js and Tailwind CSS, which offers users the ability to create text or voice notes in a simple and intuitive way.
 
